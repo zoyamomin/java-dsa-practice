@@ -1,8 +1,3 @@
-# java-dsa-practice
-My daily Java programming and Data Structures &amp; Algorithms practice.
-
-
-
 # Java and DSA Practice
 
 Hi! I am a diploma graduate learning Java
